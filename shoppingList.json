@@ -1,0 +1,233 @@
+{
+    "supermarket": [
+        {
+            "name": "El Corte Inglés",
+            "direction": 
+                {
+                "street":"Ramón y Cajal, 57-59",
+                "postalCode": 15006,
+                "city":"A Coruña"
+                },
+            "geolocation":
+                {                               
+                "latitude":25.78000451200001,
+                "longitude":-5.2101402,
+                "accuracy":1547
+                },
+            
+            "section": "Frutas y Verduras",
+            "products": [
+                    {
+                    "name": "tomate rama",
+                    "description": "tomate rama huerta Murcia", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 3.27,
+                    "inOffer": true,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUnit": "kg",
+                    "packaging":"bolsa"
+                    }, 
+                    {
+                    "name": "pera conferencia",
+                    "description": "pera conferencia origen Bierzo", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 2.10,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]
+            },
+            {
+            "section": "Lácteos",
+    
+            "products": [
+                    {
+                    "name": "leche entera",
+                    "description": "leche entera gallega", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 1.27,
+                    "inOffer": false,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 60,
+                    "measuringUni": "litro",
+                    "packaging":"botella"
+                    }, 
+                    {
+                    "name": "yogurt de vainilla",
+                    "description": "yogurt de vainilla sin azúcar", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 0.95,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBoughto": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]   
+        },
+        {
+            "name": "Alcampo",
+            "direction": 
+                {
+                "street":"C/ Lugar Palavea, 1",
+                "postalCode": 15009,
+                "city":"A Coruña"
+                },
+            "geolocation":
+                {                               
+                "latitude":36.32857412302000,
+                "longitude":-3.8725012,
+                "accuracy":2845
+                },
+            "section": "Frutas y Verduras",
+            "products": [
+                    {
+                    "name": "tomate rama",
+                    "description": "tomate rama huerta Murcia", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 3.10,
+                    "inOffer": true,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUnit": "kg",
+                    "packaging":"bolsa"
+                    }, 
+                    {
+                    "name": "pera conferencia",
+                    "description": "pera conferencia origen Bierzo", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 3.15,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]
+            },
+            {
+            "section": "Lácteos",
+    
+            "products": [
+                    {
+                    "name": "leche entera",
+                    "description": "leche entera gallega", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 1.50,
+                    "inOffer": false,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 60,
+                    "measuringUni": "litro",
+                    "packaging":"botella"
+                    }, 
+                    {
+                    "name": "yogurt de vainilla",
+                    "description": "yogurt de vainilla sin azúcar", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 1.20,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBoughto": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]   
+        },
+        {
+            "name": "Carrefour",
+            "direction": 
+                {
+                "street":"Francisco Pérez Carballo, 5",
+                "postalCode": 15008,
+                "city":"A Coruña"
+                },
+            "geolocation":
+                {                               
+                "latitude":16.32850213261000,
+                "longitude":2.5745012,
+                "accuracy":2198
+                },
+            "section": "Frutas y Verduras",
+            "products": [
+                    {
+                    "name": "tomate rama",
+                    "description": "tomate rama huerta Murcia", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 3.22,
+                    "inOffer": true,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUnit": "kg",
+                    "packaging":"bolsa"
+                    }, 
+                    {
+                    "name": "pera conferencia",
+                    "description": "pera conferencia origen Bierzo", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 1.15,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBought": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]
+            },
+            {
+            "section": "Lácteos",
+    
+            "products": [
+                    {
+                    "name": "leche entera",
+                    "description": "leche entera gallega", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 1.95,
+                    "inOffer": false,
+                    "offerValidity":"10/04/2021",
+                    "alreadyBought": false,
+                    "units": 60,
+                    "measuringUni": "litro",
+                    "packaging":"botella"
+                    }, 
+                    {
+                    "name": "yogurt de vainilla",
+                    "description": "yogurt de vainilla sin azúcar", 
+                    "origin": "España",
+                    "perishable": true,
+                    "price": 2.10,
+                    "inOffer": true,
+                    "offerValidity": "19/4/2021",
+                    "alreadyBoughto": false,
+                    "units": 20,
+                    "measuringUni": "kg",
+                    "packaging":"bolsa"
+                    } 
+                ]   
+        }                                    
+    ]   
+}

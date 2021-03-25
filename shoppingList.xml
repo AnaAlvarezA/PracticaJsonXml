@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermarket>
+    <name>El Corte Inglés</name>
+    <direction>
+        <street>Ramón y Cajal, 57-59</street>
+        <postalCode>15006</postalCode>
+        <city>A Coruña</city>
+    </direction>
+    <geolocation>
+        <latitude>25.78000451200001</latitude>
+        <longitude>-5.2101402</longitude>
+        <accuracy>1547</accuracy>
+    </geolocation>
+    <section>Frutas y Verduras</section>
+    <products>
+        <name>tomate rama</name>
+        <description>tomate rama huerta Murcia</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>3.27</price>
+        <inOffer>true</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUnit>kg</measuringUnit>
+        <packaging>bolsa</packaging>
+    </products>
+    <products>
+        <name>pera conferencia</name>
+        <description>pera conferencia origen Bierzo</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>2.1</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
+<supermarket>
+    <section>Lácteos</section>
+    <products>
+        <name>leche entera</name>
+        <description>leche entera gallega</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>1.27</price>
+        <inOffer>false</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>60</units>
+        <measuringUni>litro</measuringUni>
+        <packaging>botella</packaging>
+    </products>
+    <products>
+        <name>yogurt de vainilla</name>
+        <description>yogurt de vainilla sin azúcar</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>0.95</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBoughto>false</alreadyBoughto>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
+<supermarket>
+    <name>Alcampo</name>
+    <direction>
+        <street>C/ Lugar Palavea, 1</street>
+        <postalCode>15009</postalCode>
+        <city>A Coruña</city>
+    </direction>
+    <geolocation>
+        <latitude>36.32857412302</latitude>
+        <longitude>-3.8725012</longitude>
+        <accuracy>2845</accuracy>
+    </geolocation>
+    <section>Frutas y Verduras</section>
+    <products>
+        <name>tomate rama</name>
+        <description>tomate rama huerta Murcia</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>3.1</price>
+        <inOffer>true</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUnit>kg</measuringUnit>
+        <packaging>bolsa</packaging>
+    </products>
+    <products>
+        <name>pera conferencia</name>
+        <description>pera conferencia origen Bierzo</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>3.15</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
+<supermarket>
+    <section>Lácteos</section>
+    <products>
+        <name>leche entera</name>
+        <description>leche entera gallega</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>1.5</price>
+        <inOffer>false</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>60</units>
+        <measuringUni>litro</measuringUni>
+        <packaging>botella</packaging>
+    </products>
+    <products>
+        <name>yogurt de vainilla</name>
+        <description>yogurt de vainilla sin azúcar</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>1.2</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBoughto>false</alreadyBoughto>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
+<supermarket>
+    <name>Carrefour</name>
+    <direction>
+        <street>Francisco Pérez Carballo, 5</street>
+        <postalCode>15008</postalCode>
+        <city>A Coruña</city>
+    </direction>
+    <geolocation>
+        <latitude>16.32850213261</latitude>
+        <longitude>2.5745012</longitude>
+        <accuracy>2198</accuracy>
+    </geolocation>
+    <section>Frutas y Verduras</section>
+    <products>
+        <name>tomate rama</name>
+        <description>tomate rama huerta Murcia</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>3.22</price>
+        <inOffer>true</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUnit>kg</measuringUnit>
+        <packaging>bolsa</packaging>
+    </products>
+    <products>
+        <name>pera conferencia</name>
+        <description>pera conferencia origen Bierzo</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>1.15</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
+<supermarket>
+    <section>Lácteos</section>
+    <products>
+        <name>leche entera</name>
+        <description>leche entera gallega</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>1.95</price>
+        <inOffer>false</inOffer>
+        <offerValidity>10/04/2021</offerValidity>
+        <alreadyBought>false</alreadyBought>
+        <units>60</units>
+        <measuringUni>litro</measuringUni>
+        <packaging>botella</packaging>
+    </products>
+    <products>
+        <name>yogurt de vainilla</name>
+        <description>yogurt de vainilla sin azúcar</description>
+        <origin>España</origin>
+        <perishable>true</perishable>
+        <price>2.1</price>
+        <inOffer>true</inOffer>
+        <offerValidity>19/4/2021</offerValidity>
+        <alreadyBoughto>false</alreadyBoughto>
+        <units>20</units>
+        <measuringUni>kg</measuringUni>
+        <packaging>bolsa</packaging>
+    </products>
+</supermarket>
